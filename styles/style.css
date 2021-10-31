@@ -160,6 +160,7 @@ a:active {
     justify-content: center;
     background-color: #fff;
     color: #000;
+    overflow:hidden;
 }
 
 .section-title {
@@ -172,7 +173,7 @@ a:active {
 }
 
 .section-title_theme_light {
-    margin: 100px auto 20px;
+    margin: 100px auto auto;
 }
 
 .section-title_theme_dark {
@@ -191,7 +192,7 @@ a:active {
 }
 
 .section-subtitle_theme_light {
-    margin: 0px auto;
+    margin: 20px auto auto;
 }
 
 .section-subtitle_theme_dark {
@@ -311,6 +312,7 @@ a:active {
 }
 
 .feynman__link {
+    z-index: 3;
     display: flex;
     position: absolute;
     top: 50%;
