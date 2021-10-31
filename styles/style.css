@@ -3,6 +3,18 @@
     box-sizing: border-box;
 }
 
+a {
+    color:#2f80ed;
+}
+
+a:visited {
+    color:#2f80ed;
+}
+
+a:active {
+    color:#2f80ed;
+}
+
 .page {
     min-width: 1100px;
     max-width: 1600px;
@@ -21,7 +33,6 @@
 }
 
 .header__link {
-    color: #2f80ed;
     text-decoration: none;
 }
 
@@ -307,7 +318,6 @@
     font-size: 36px;
     font-weight: 400;
     line-height: 51px;
-    color: #2f80ed;
     text-decoration: none;
 }
 
@@ -406,7 +416,12 @@
     font-size: 18px;
     font-weight: 400;
     line-height: 30px;
+    color: #fff;
     text-decoration: none;
+}
+
+.footer__column-link:active {
+    color: #fff;
 }
 
 .footer__column-link:visited {
