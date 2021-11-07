@@ -1,0 +1,9 @@
+.techniques {
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    width: 80%;
+    background-color: #fff;
+    color: #000;
+    overflow: hidden;
+}
