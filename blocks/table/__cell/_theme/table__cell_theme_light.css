@@ -1,0 +1,8 @@
+.table__cell_theme_light {
+    margin-top: 60px;
+    width: 250px;
+}
+
+.table__cell_theme_light:nth-child(5) {
+    display: flex;
+}

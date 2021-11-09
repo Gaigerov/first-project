@@ -1,0 +1,17 @@
+.footer__column-link {
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer__column-link:active {
+    color: #fff;
+}
+
+.footer__column-link:visited {
+    color: #fff;
+}

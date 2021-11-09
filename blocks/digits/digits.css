@@ -1,0 +1,8 @@
+.digits {
+    margin: 0px;
+    display: block;
+    justify-content: center;
+    background-color: #fff;
+    color: #000;
+    overflow:hidden;
+}

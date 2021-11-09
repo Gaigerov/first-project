@@ -1,0 +1,10 @@
+.feynman__img {
+    display: flex;
+    z-index: 1;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 867px;
+    height: 637px;
+    background-image: url('../../../images/feinman.png');
+}
